@@ -140,7 +140,7 @@ label:hover input[type='radio'] {
   border-color: #4e75ff;
 }
 
-/* Кнопка для генерації промісу */
+/* Кнопка для промісу */
 .form button {
   width: 100%;
   height: 40px;
@@ -158,7 +158,6 @@ label:hover input[type='radio'] {
   background-color: #6c8cff;
 }
 
-/* Відгук на hover для елементів */
 fieldset:hover,
 input[type='number']:hover {
   border-color: #4e75ff;
